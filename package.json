@@ -1,0 +1,23 @@
+{
+  "name": "weighted-random",
+  "version": "1.0.0",
+  "description": "A tiny JavaScript object that creates random numbers between 0 and 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djave-co/weighted-random.git"
+  },
+  "keywords": [
+    "random",
+    "javascript"
+  ],
+  "author": "David Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djave-co/weighted-random/issues"
+  },
+  "homepage": "https://github.com/djave-co/weighted-random#readme"
+}
