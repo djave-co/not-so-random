@@ -1,7 +1,7 @@
 /*
   ~ The class
 */
-exports.WeightedRandom = {
+exports.NotSoRandom = {
   // Bias should be a float between 0 and 1, 1 being 100% of results are 1
   bias(bias = 0.8){
     let x = Math.random();

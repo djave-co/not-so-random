@@ -1,5 +1,5 @@
 {
-  "name": "weighted-random",
+  "name": "not-so-random",
   "version": "1.0.0",
   "description": "A tiny JavaScript object that creates random numbers between 0 and 1",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "random",
     "javascript"
   ],
-  "author": "David Williams",
+  "author": "David Williams (https://djave.co.uk)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/djave-co/weighted-random/issues"
