@@ -1,5 +1,5 @@
 {
-  "name": "not-so-random",
+  "name": "shaped-random",
   "version": "1.0.0",
   "description": "A tiny JavaScript object that creates random numbers between 0 and 1",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/djave-co/weighted-random.git"
+    "url": "git+https://github.com/djave-co/shaped-random.git"
   },
   "keywords": [
     "random",
@@ -17,7 +17,7 @@
   "author": "David Williams (https://djave.co.uk)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/djave-co/weighted-random/issues"
+    "url": "https://github.com/djave-co/shaped-random/issues"
   },
-  "homepage": "https://github.com/djave-co/weighted-random#readme"
+  "homepage": "https://github.com/djave-co/shaped-random#readme"
 }
