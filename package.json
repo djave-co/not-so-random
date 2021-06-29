@@ -1,6 +1,6 @@
 {
   "name": "shaped-random",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny JavaScript object that creates random numbers between 0 and 1",
   "main": "index.js",
   "scripts": {
